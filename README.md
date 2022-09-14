@@ -65,15 +65,14 @@ Nessa avançamos com velocidade máxima no desenvolvimento do nosso projeto, faz
 
 </details>
 
-<!--
 <details>
   <summary>To be continued</summary>
 
-Nessa aula criamos o front-end mobile da nossa aplicação utilizando React Native. Além disso, criamos nosso projeto utilizando TypeScript e Expo, que proporciona muita produtividade no desenvolvimento. Construímos toda interface da aplicação do zero, além de termos criado animações utilizando o Moti, AsyncStorage e integração em tempo real com socket.io.
+Nessa terceira aula vamos colocar ainda mais intensidade na continuação da construção do nosso projeto, criando o back-end da aplicação. #NextLevelWeek #NeverStopLearning
 
 </details>
 
-
+<!--
 <details>
   <summary>Power up</summary>
 
@@ -189,7 +188,9 @@ $ expo start
 
 ## 🚀 Tecnologias
 
-O projeto foi desenvolvido com as seguintes tecnologias:
+Em breve.
+
+<!-- O projeto foi desenvolvido com as seguintes tecnologias:
 
 <details>
   <summary>Backend</summary>
@@ -244,7 +245,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [VS Code](https://code.visualstudio.com/)
-</details>
+</details> -->
 
 ## 📬 Entre em contato!
 
