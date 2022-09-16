@@ -68,26 +68,23 @@ Nessa avançamos com velocidade máxima no desenvolvimento do nosso projeto, faz
 <details>
   <summary>To be continued</summary>
 
-Nessa terceira aula vamos colocar ainda mais intensidade na continuação da construção do nosso projeto, criando o back-end da aplicação. #NextLevelWeek #NeverStopLearning
+Nessa terceira aula vamos colocar ainda mais intensidade na continuação da construção do nosso projeto, criando o back-end da aplicação.
 
 </details>
 
-<!--
 <details>
   <summary>Power up</summary>
 
-Nessa aula criaremos um microserviço em Elixir responsável por gerar a nuvem de tags das mensagens enviadas na aplicação desenvolvida nos dias anteriores. Usaremos conceitos de concorrência e paralelismo para a contagem de tags, e um processo que executa todos os dias para a geração dessa nuvem de tags. Com isso, utilizaremos o Phoenix, Ecto, o módulo Task a lib Quantum e diversos conceitos do Elixir.
+Estamos cada vez mais próximos de finalizar o nosso projeto e completar a missão. Então nessa aula seguimos com força total para finalizar as interfaces da nossa aplicação
 
 </details>
 
 <details>
   <summary>Final round</summary>
 
-Nessa aula criaremos um microserviço em Elixir responsável por gerar a nuvem de tags das mensagens enviadas na aplicação desenvolvida nos dias anteriores. Usaremos conceitos de concorrência e paralelismo para a contagem de tags, e um processo que executa todos os dias para a geração dessa nuvem de tags. Com isso, utilizaremos o Phoenix, Ecto, o módulo Task a lib Quantum e diversos conceitos do Elixir.
+Chegamos na reta final! Nessa aula vamos falar sobre algumas funcionalidades extras ao projeto, fazer a conexão com a API web e mobile e colocar ele no mundo.
 
 </details>
-
-  -->
 
 </p>
 
